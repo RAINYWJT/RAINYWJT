@@ -28,8 +28,9 @@
 </p>
 
 <p align="center">
-![Visitor Count](https://profile-counter.glitch.me/RAINYWJT/count.svg)
+  <img src="https://profile-counter.glitch.me/RAINYWJT/count.svg" alt="Visitor Count">
 </p>
+
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
