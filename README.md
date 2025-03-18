@@ -28,7 +28,6 @@
 </p>
 
 <p align="center">
-### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/RAINYWJT/count.svg)
 </p>
 
