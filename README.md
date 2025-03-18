@@ -27,8 +27,10 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,md,matlab&theme=light" />
 </p>
 
+<p align="center">
 ### Visitors
 ![Visitor Count](https://profile-counter.glitch.me/RAINYWJT/count.svg)
+</p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
