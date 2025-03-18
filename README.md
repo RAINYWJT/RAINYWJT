@@ -27,6 +27,7 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,md,matlab&theme=light" />
 </p>
 
+<p align="center">Visitors</p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/RAINYWJT/count.svg" alt="Visitor Count">
 </p>
