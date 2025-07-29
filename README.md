@@ -27,12 +27,6 @@
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,java,html,css,js,md,matlab&theme=light" />
 </p>
 
-<p align="center">Visitors</p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/RAINYWJT/count.svg" alt="Visitor Count">
-</p>
-
-
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Accepted!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
