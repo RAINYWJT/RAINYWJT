@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Juntong Wang
 - 👀 Currently I am a student in NJUAI.
-- 🌱 My learning interests focus on Learning Theory, Optimization, Abductive Learning.
+- 🌱 My learning interests focus on Learning Theory, Neural-Symbolic Learning.
 - For more info, here is the link of my self-introduction:https://rainywang.gitbook.io/rainywangs-self-introduction
