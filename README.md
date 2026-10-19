@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Juntong Wang
-- 👀 Currently I am a student in NJUAI.
+- 👀 Currently I am a Ph.D student in NJUAI.
 - 🌱 My learning interests focus on Learning Theory, Reasoning.
 - For more info, here is the link of my self-introduction:https://rainywang.gitbook.io/rainywangs-self-introduction
